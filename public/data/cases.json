@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "lm-case-001",
+    "title": "客服机器人案例1",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003242",
+      "lm-q-003686",
+      "lm-q-003171"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-002",
+    "title": "知识库问答案例2",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000393",
+      "lm-q-002899",
+      "lm-q-003184"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-003",
+    "title": "文档总结案例3",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000371",
+      "lm-q-002903",
+      "lm-q-002523"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-004",
+    "title": "合同审查案例4",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001382",
+      "lm-q-003604",
+      "lm-q-002389"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-005",
+    "title": "学习助手案例5",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000933",
+      "lm-q-002644",
+      "lm-q-000633"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-006",
+    "title": "代码解释案例6",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002793",
+      "lm-q-001765",
+      "lm-q-001869"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-007",
+    "title": "简历优化案例7",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002405",
+      "lm-q-000473",
+      "lm-q-001081"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-008",
+    "title": "AI搜索案例8",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003634",
+      "lm-q-001125",
+      "lm-q-001519"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-009",
+    "title": "RAG知识库案例9",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001795",
+      "lm-q-003554",
+      "lm-q-002602"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-010",
+    "title": "Embedding检索案例10",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001190",
+      "lm-q-002064",
+      "lm-q-002089"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-011",
+    "title": "向量召回案例11",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001086",
+      "lm-q-002955",
+      "lm-q-001215"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-012",
+    "title": "重排案例12",
+    "description": "通过重排掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001044",
+      "lm-q-002135",
+      "lm-q-002737"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-013",
+    "title": "JSON输出案例13",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001321",
+      "lm-q-001429",
+      "lm-q-001338"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-014",
+    "title": "工具调用案例14",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003511",
+      "lm-q-002439",
+      "lm-q-001472"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-015",
+    "title": "Agent任务案例15",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000302",
+      "lm-q-003419",
+      "lm-q-000582"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-016",
+    "title": "AI工作流案例16",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003697",
+      "lm-q-002225",
+      "lm-q-000096"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-017",
+    "title": "评测集案例17",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000462",
+      "lm-q-002168",
+      "lm-q-002423"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-018",
+    "title": "幻觉排查案例18",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001090",
+      "lm-q-000676",
+      "lm-q-000065"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-019",
+    "title": "Prompt防御案例19",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003326",
+      "lm-q-000869",
+      "lm-q-002078"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-020",
+    "title": "成本优化案例20",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002141",
+      "lm-q-000428",
+      "lm-q-003331"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-021",
+    "title": "AI作品集案例21",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003496",
+      "lm-q-003044",
+      "lm-q-000531"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-022",
+    "title": "客服机器人案例22",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002857",
+      "lm-q-001217",
+      "lm-q-000101"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-023",
+    "title": "知识库问答案例23",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002372",
+      "lm-q-000529",
+      "lm-q-000123"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-024",
+    "title": "文档总结案例24",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001594",
+      "lm-q-000459",
+      "lm-q-002103"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-025",
+    "title": "合同审查案例25",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003580",
+      "lm-q-002839",
+      "lm-q-002719"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-026",
+    "title": "学习助手案例26",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000319",
+      "lm-q-003542",
+      "lm-q-002401"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-027",
+    "title": "代码解释案例27",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003569",
+      "lm-q-001376",
+      "lm-q-000491"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-028",
+    "title": "简历优化案例28",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000928",
+      "lm-q-000784",
+      "lm-q-001126"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-029",
+    "title": "AI搜索案例29",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002717",
+      "lm-q-003500",
+      "lm-q-000332"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-030",
+    "title": "RAG知识库案例30",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001890",
+      "lm-q-002676",
+      "lm-q-002968"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-031",
+    "title": "Embedding检索案例31",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003559",
+      "lm-q-001323",
+      "lm-q-003350"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-032",
+    "title": "向量召回案例32",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002772",
+      "lm-q-000283",
+      "lm-q-001747"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-033",
+    "title": "重排案例33",
+    "description": "通过重排掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000955",
+      "lm-q-000128",
+      "lm-q-003005"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-034",
+    "title": "JSON输出案例34",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000378",
+      "lm-q-003267",
+      "lm-q-002925"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-035",
+    "title": "工具调用案例35",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000523",
+      "lm-q-000668",
+      "lm-q-002792"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-036",
+    "title": "Agent任务案例36",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002318",
+      "lm-q-003230",
+      "lm-q-003199"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-037",
+    "title": "AI工作流案例37",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003158",
+      "lm-q-002111",
+      "lm-q-003243"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-038",
+    "title": "评测集案例38",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003593",
+      "lm-q-000690",
+      "lm-q-002568"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-039",
+    "title": "幻觉排查案例39",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002429",
+      "lm-q-000448",
+      "lm-q-000067"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-040",
+    "title": "Prompt防御案例40",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001674",
+      "lm-q-002092",
+      "lm-q-000159"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-041",
+    "title": "成本优化案例41",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000451",
+      "lm-q-001033",
+      "lm-q-000188"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-042",
+    "title": "AI作品集案例42",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002906",
+      "lm-q-002005",
+      "lm-q-001985"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-043",
+    "title": "客服机器人案例43",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002025",
+      "lm-q-003465",
+      "lm-q-003396"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-044",
+    "title": "知识库问答案例44",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001082",
+      "lm-q-001481",
+      "lm-q-002053"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-045",
+    "title": "文档总结案例45",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002483",
+      "lm-q-003066",
+      "lm-q-003071"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-046",
+    "title": "合同审查案例46",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001113",
+      "lm-q-002322",
+      "lm-q-001850"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-047",
+    "title": "学习助手案例47",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002400",
+      "lm-q-003353",
+      "lm-q-002338"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-048",
+    "title": "代码解释案例48",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003573",
+      "lm-q-001942",
+      "lm-q-002375"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-049",
+    "title": "简历优化案例49",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003484",
+      "lm-q-001812",
+      "lm-q-001466"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-050",
+    "title": "AI搜索案例50",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002446",
+      "lm-q-001699",
+      "lm-q-001791"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-051",
+    "title": "RAG知识库案例51",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000334",
+      "lm-q-000769",
+      "lm-q-000841"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-052",
+    "title": "Embedding检索案例52",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003063",
+      "lm-q-000284",
+      "lm-q-001913"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-053",
+    "title": "向量召回案例53",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000637",
+      "lm-q-000461",
+      "lm-q-001504"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-054",
+    "title": "重排案例54",
+    "description": "通过重排掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001643",
+      "lm-q-002409",
+      "lm-q-000859"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-055",
+    "title": "JSON输出案例55",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003178",
+      "lm-q-000213",
+      "lm-q-002616"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-056",
+    "title": "工具调用案例56",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000019",
+      "lm-q-001510",
+      "lm-q-002947"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-057",
+    "title": "Agent任务案例57",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003437",
+      "lm-q-000239",
+      "lm-q-003084"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-058",
+    "title": "AI工作流案例58",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001602",
+      "lm-q-001957",
+      "lm-q-001246"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-059",
+    "title": "评测集案例59",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003699",
+      "lm-q-000043",
+      "lm-q-003044"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-060",
+    "title": "幻觉排查案例60",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003146",
+      "lm-q-002790",
+      "lm-q-001790"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-061",
+    "title": "Prompt防御案例61",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002951",
+      "lm-q-002982",
+      "lm-q-000345"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-062",
+    "title": "成本优化案例62",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003324",
+      "lm-q-002176",
+      "lm-q-000310"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-063",
+    "title": "AI作品集案例63",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002730",
+      "lm-q-001918",
+      "lm-q-001363"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-064",
+    "title": "客服机器人案例64",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002694",
+      "lm-q-002000",
+      "lm-q-000699"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-065",
+    "title": "知识库问答案例65",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001530",
+      "lm-q-001384",
+      "lm-q-001669"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-066",
+    "title": "文档总结案例66",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001837",
+      "lm-q-000562",
+      "lm-q-003242"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-067",
+    "title": "合同审查案例67",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002161",
+      "lm-q-001704",
+      "lm-q-002543"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-068",
+    "title": "学习助手案例68",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002780",
+      "lm-q-003055",
+      "lm-q-001574"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-069",
+    "title": "代码解释案例69",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000677",
+      "lm-q-000512",
+      "lm-q-002879"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-070",
+    "title": "简历优化案例70",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000566",
+      "lm-q-002638",
+      "lm-q-003223"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-071",
+    "title": "AI搜索案例71",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002485",
+      "lm-q-002100",
+      "lm-q-002952"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-072",
+    "title": "RAG知识库案例72",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000383",
+      "lm-q-003282",
+      "lm-q-002692"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-073",
+    "title": "Embedding检索案例73",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000488",
+      "lm-q-001613",
+      "lm-q-001714"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-074",
+    "title": "向量召回案例74",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003214",
+      "lm-q-001771",
+      "lm-q-002912"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-075",
+    "title": "重排案例75",
+    "description": "通过重排掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002339",
+      "lm-q-000981",
+      "lm-q-003091"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-076",
+    "title": "JSON输出案例76",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002552",
+      "lm-q-002019",
+      "lm-q-002181"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-077",
+    "title": "工具调用案例77",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003165",
+      "lm-q-000654",
+      "lm-q-000847"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-078",
+    "title": "Agent任务案例78",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002118",
+      "lm-q-001135",
+      "lm-q-001030"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-079",
+    "title": "AI工作流案例79",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003066",
+      "lm-q-003127",
+      "lm-q-002396"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-080",
+    "title": "评测集案例80",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000279",
+      "lm-q-001619",
+      "lm-q-002019"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-081",
+    "title": "幻觉排查案例81",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001986",
+      "lm-q-003547",
+      "lm-q-002738"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-082",
+    "title": "Prompt防御案例82",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002386",
+      "lm-q-000797",
+      "lm-q-000490"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-083",
+    "title": "成本优化案例83",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000339",
+      "lm-q-003618",
+      "lm-q-001289"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-084",
+    "title": "AI作品集案例84",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001786",
+      "lm-q-000776",
+      "lm-q-000094"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-085",
+    "title": "客服机器人案例85",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002341",
+      "lm-q-003219",
+      "lm-q-000004"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-086",
+    "title": "知识库问答案例86",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002130",
+      "lm-q-001437",
+      "lm-q-001737"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-087",
+    "title": "文档总结案例87",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003124",
+      "lm-q-002937",
+      "lm-q-003127"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-088",
+    "title": "合同审查案例88",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001145",
+      "lm-q-002454",
+      "lm-q-000049"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-089",
+    "title": "学习助手案例89",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000962",
+      "lm-q-003251",
+      "lm-q-000938"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-090",
+    "title": "代码解释案例90",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000620",
+      "lm-q-001573",
+      "lm-q-000238"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-091",
+    "title": "简历优化案例91",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002269",
+      "lm-q-001779",
+      "lm-q-001142"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-092",
+    "title": "AI搜索案例92",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001790",
+      "lm-q-000123",
+      "lm-q-002823"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-093",
+    "title": "RAG知识库案例93",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001051",
+      "lm-q-001451",
+      "lm-q-001653"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-094",
+    "title": "Embedding检索案例94",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001565",
+      "lm-q-002966",
+      "lm-q-003331"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-095",
+    "title": "向量召回案例95",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001518",
+      "lm-q-001622",
+      "lm-q-002987"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-096",
+    "title": "重排案例96",
+    "description": "通过重排掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002330",
+      "lm-q-003183",
+      "lm-q-001361"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-097",
+    "title": "JSON输出案例97",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001738",
+      "lm-q-001704",
+      "lm-q-000062"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-098",
+    "title": "工具调用案例98",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003010",
+      "lm-q-001484",
+      "lm-q-003069"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-099",
+    "title": "Agent任务案例99",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001231",
+      "lm-q-001525",
+      "lm-q-002561"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-100",
+    "title": "AI工作流案例100",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003395",
+      "lm-q-000499",
+      "lm-q-000082"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-101",
+    "title": "评测集案例101",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003030",
+      "lm-q-002004",
+      "lm-q-002263"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-102",
+    "title": "幻觉排查案例102",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001745",
+      "lm-q-000687",
+      "lm-q-003680"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-103",
+    "title": "Prompt防御案例103",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002525",
+      "lm-q-002396",
+      "lm-q-001966"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-104",
+    "title": "成本优化案例104",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000531",
+      "lm-q-003528",
+      "lm-q-002457"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-105",
+    "title": "AI作品集案例105",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002686",
+      "lm-q-000714",
+      "lm-q-001281"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-106",
+    "title": "客服机器人案例106",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003061",
+      "lm-q-000930",
+      "lm-q-001127"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-107",
+    "title": "知识库问答案例107",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000185",
+      "lm-q-000776",
+      "lm-q-002305"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-108",
+    "title": "文档总结案例108",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000202",
+      "lm-q-002699",
+      "lm-q-002601"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-109",
+    "title": "合同审查案例109",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001145",
+      "lm-q-000625",
+      "lm-q-003662"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-110",
+    "title": "学习助手案例110",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001922",
+      "lm-q-003661",
+      "lm-q-000951"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-111",
+    "title": "代码解释案例111",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000499",
+      "lm-q-000577",
+      "lm-q-001541"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-112",
+    "title": "简历优化案例112",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000235",
+      "lm-q-002203",
+      "lm-q-000137"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-113",
+    "title": "AI搜索案例113",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001670",
+      "lm-q-000245",
+      "lm-q-001756"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-114",
+    "title": "RAG知识库案例114",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000405",
+      "lm-q-000204",
+      "lm-q-000136"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-115",
+    "title": "Embedding检索案例115",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001064",
+      "lm-q-002120",
+      "lm-q-002388"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-116",
+    "title": "向量召回案例116",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002041",
+      "lm-q-000680",
+      "lm-q-003032"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-117",
+    "title": "重排案例117",
+    "description": "通过重排掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001172",
+      "lm-q-002854",
+      "lm-q-001836"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-118",
+    "title": "JSON输出案例118",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002645",
+      "lm-q-002892",
+      "lm-q-002924"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-119",
+    "title": "工具调用案例119",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001134",
+      "lm-q-002325",
+      "lm-q-000382"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-120",
+    "title": "Agent任务案例120",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002466",
+      "lm-q-001394",
+      "lm-q-000881"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-121",
+    "title": "AI工作流案例121",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000535",
+      "lm-q-001546",
+      "lm-q-002959"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-122",
+    "title": "评测集案例122",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000661",
+      "lm-q-002007",
+      "lm-q-000586"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-123",
+    "title": "幻觉排查案例123",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003338",
+      "lm-q-002645",
+      "lm-q-002258"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-124",
+    "title": "Prompt防御案例124",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002704",
+      "lm-q-000721",
+      "lm-q-003613"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-125",
+    "title": "成本优化案例125",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002185",
+      "lm-q-001529",
+      "lm-q-003068"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-126",
+    "title": "AI作品集案例126",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001298",
+      "lm-q-003689",
+      "lm-q-000773"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-127",
+    "title": "客服机器人案例127",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001922",
+      "lm-q-002052",
+      "lm-q-001014"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-128",
+    "title": "知识库问答案例128",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000183",
+      "lm-q-003035",
+      "lm-q-000821"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-129",
+    "title": "文档总结案例129",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001922",
+      "lm-q-002993",
+      "lm-q-000839"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-130",
+    "title": "合同审查案例130",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003310",
+      "lm-q-000083",
+      "lm-q-002677"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-131",
+    "title": "学习助手案例131",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000811",
+      "lm-q-002596",
+      "lm-q-001918"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-132",
+    "title": "代码解释案例132",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002171",
+      "lm-q-000157",
+      "lm-q-001084"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-133",
+    "title": "简历优化案例133",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002587",
+      "lm-q-002260",
+      "lm-q-000949"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-134",
+    "title": "AI搜索案例134",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000820",
+      "lm-q-001358",
+      "lm-q-000532"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-135",
+    "title": "RAG知识库案例135",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000286",
+      "lm-q-000653",
+      "lm-q-002187"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-136",
+    "title": "Embedding检索案例136",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000769",
+      "lm-q-000674",
+      "lm-q-003587"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-137",
+    "title": "向量召回案例137",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000383",
+      "lm-q-001401",
+      "lm-q-002562"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-138",
+    "title": "重排案例138",
+    "description": "通过重排掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003466",
+      "lm-q-001392",
+      "lm-q-001372"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-139",
+    "title": "JSON输出案例139",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000744",
+      "lm-q-002832",
+      "lm-q-003392"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-140",
+    "title": "工具调用案例140",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002571",
+      "lm-q-003678",
+      "lm-q-003624"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-141",
+    "title": "Agent任务案例141",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002851",
+      "lm-q-002822",
+      "lm-q-000594"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-142",
+    "title": "AI工作流案例142",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001592",
+      "lm-q-003453",
+      "lm-q-000757"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-143",
+    "title": "评测集案例143",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001783",
+      "lm-q-000089",
+      "lm-q-002770"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-144",
+    "title": "幻觉排查案例144",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000410",
+      "lm-q-001512",
+      "lm-q-000667"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-145",
+    "title": "Prompt防御案例145",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002427",
+      "lm-q-003637",
+      "lm-q-000478"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-146",
+    "title": "成本优化案例146",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000005",
+      "lm-q-002887",
+      "lm-q-001495"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-147",
+    "title": "AI作品集案例147",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001074",
+      "lm-q-000808",
+      "lm-q-003102"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-148",
+    "title": "客服机器人案例148",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001577",
+      "lm-q-002585",
+      "lm-q-002682"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-149",
+    "title": "知识库问答案例149",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000685",
+      "lm-q-001957",
+      "lm-q-002830"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-150",
+    "title": "文档总结案例150",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000303",
+      "lm-q-002853",
+      "lm-q-001594"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-151",
+    "title": "合同审查案例151",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002111",
+      "lm-q-002585",
+      "lm-q-000057"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-152",
+    "title": "学习助手案例152",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001621",
+      "lm-q-001985",
+      "lm-q-000667"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-153",
+    "title": "代码解释案例153",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001358",
+      "lm-q-003310",
+      "lm-q-002650"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-154",
+    "title": "简历优化案例154",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002133",
+      "lm-q-002224",
+      "lm-q-002696"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-155",
+    "title": "AI搜索案例155",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003569",
+      "lm-q-003378",
+      "lm-q-000477"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-156",
+    "title": "RAG知识库案例156",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001573",
+      "lm-q-001483",
+      "lm-q-003493"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-157",
+    "title": "Embedding检索案例157",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003257",
+      "lm-q-002796",
+      "lm-q-001593"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-158",
+    "title": "向量召回案例158",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002276",
+      "lm-q-000858",
+      "lm-q-001688"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-159",
+    "title": "重排案例159",
+    "description": "通过重排掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002007",
+      "lm-q-001948",
+      "lm-q-000955"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-160",
+    "title": "JSON输出案例160",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000876",
+      "lm-q-001232",
+      "lm-q-001900"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-161",
+    "title": "工具调用案例161",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002014",
+      "lm-q-002329",
+      "lm-q-001652"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-162",
+    "title": "Agent任务案例162",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001518",
+      "lm-q-003104",
+      "lm-q-001786"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-163",
+    "title": "AI工作流案例163",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001093",
+      "lm-q-000013",
+      "lm-q-001581"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-164",
+    "title": "评测集案例164",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001888",
+      "lm-q-001639",
+      "lm-q-002723"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-165",
+    "title": "幻觉排查案例165",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003215",
+      "lm-q-001744",
+      "lm-q-002642"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-166",
+    "title": "Prompt防御案例166",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001808",
+      "lm-q-002942",
+      "lm-q-003572"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-167",
+    "title": "成本优化案例167",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000312",
+      "lm-q-001721",
+      "lm-q-003536"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-168",
+    "title": "AI作品集案例168",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000783",
+      "lm-q-002782",
+      "lm-q-000357"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-169",
+    "title": "客服机器人案例169",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001637",
+      "lm-q-002511",
+      "lm-q-000994"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-170",
+    "title": "知识库问答案例170",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000172",
+      "lm-q-001850",
+      "lm-q-002344"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-171",
+    "title": "文档总结案例171",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003608",
+      "lm-q-001824",
+      "lm-q-003273"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-172",
+    "title": "合同审查案例172",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002470",
+      "lm-q-001965",
+      "lm-q-000850"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-173",
+    "title": "学习助手案例173",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003445",
+      "lm-q-001743",
+      "lm-q-003220"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-174",
+    "title": "代码解释案例174",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000592",
+      "lm-q-000847",
+      "lm-q-003281"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-175",
+    "title": "简历优化案例175",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003507",
+      "lm-q-002599",
+      "lm-q-001536"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-176",
+    "title": "AI搜索案例176",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003284",
+      "lm-q-000605",
+      "lm-q-001608"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-177",
+    "title": "RAG知识库案例177",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002290",
+      "lm-q-000652",
+      "lm-q-000229"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-178",
+    "title": "Embedding检索案例178",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000498",
+      "lm-q-000542",
+      "lm-q-003598"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-179",
+    "title": "向量召回案例179",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002768",
+      "lm-q-001228",
+      "lm-q-002003"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-180",
+    "title": "重排案例180",
+    "description": "通过重排掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000936",
+      "lm-q-001522",
+      "lm-q-000670"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-181",
+    "title": "JSON输出案例181",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003558",
+      "lm-q-000346",
+      "lm-q-001013"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-182",
+    "title": "工具调用案例182",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000870",
+      "lm-q-003652",
+      "lm-q-002741"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-183",
+    "title": "Agent任务案例183",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000682",
+      "lm-q-002469",
+      "lm-q-002753"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-184",
+    "title": "AI工作流案例184",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003164",
+      "lm-q-000346",
+      "lm-q-002317"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-185",
+    "title": "评测集案例185",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000005",
+      "lm-q-003489",
+      "lm-q-001676"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-186",
+    "title": "幻觉排查案例186",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003359",
+      "lm-q-002674",
+      "lm-q-000389"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-187",
+    "title": "Prompt防御案例187",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002541",
+      "lm-q-001406",
+      "lm-q-001573"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-188",
+    "title": "成本优化案例188",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001753",
+      "lm-q-001477",
+      "lm-q-002188"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-189",
+    "title": "AI作品集案例189",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001830",
+      "lm-q-001613",
+      "lm-q-002023"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-190",
+    "title": "客服机器人案例190",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002962",
+      "lm-q-002241",
+      "lm-q-001843"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-191",
+    "title": "知识库问答案例191",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000444",
+      "lm-q-002694",
+      "lm-q-000576"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-192",
+    "title": "文档总结案例192",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002160",
+      "lm-q-001588",
+      "lm-q-000544"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-193",
+    "title": "合同审查案例193",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001221",
+      "lm-q-003326",
+      "lm-q-001695"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-194",
+    "title": "学习助手案例194",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000704",
+      "lm-q-001398",
+      "lm-q-001899"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-195",
+    "title": "代码解释案例195",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000627",
+      "lm-q-001484",
+      "lm-q-000382"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-196",
+    "title": "简历优化案例196",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001881",
+      "lm-q-003661",
+      "lm-q-000301"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-197",
+    "title": "AI搜索案例197",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000422",
+      "lm-q-002279",
+      "lm-q-003365"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-198",
+    "title": "RAG知识库案例198",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003151",
+      "lm-q-002797",
+      "lm-q-002855"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-199",
+    "title": "Embedding检索案例199",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000927",
+      "lm-q-003228",
+      "lm-q-003304"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-200",
+    "title": "向量召回案例200",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001314",
+      "lm-q-000687",
+      "lm-q-002785"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-201",
+    "title": "重排案例201",
+    "description": "通过重排掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001255",
+      "lm-q-001506",
+      "lm-q-002527"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-202",
+    "title": "JSON输出案例202",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001023",
+      "lm-q-001704",
+      "lm-q-001821"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-203",
+    "title": "工具调用案例203",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002758",
+      "lm-q-000983",
+      "lm-q-002258"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-204",
+    "title": "Agent任务案例204",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001543",
+      "lm-q-001515",
+      "lm-q-003476"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-205",
+    "title": "AI工作流案例205",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001934",
+      "lm-q-000942",
+      "lm-q-001891"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-206",
+    "title": "评测集案例206",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001709",
+      "lm-q-002927",
+      "lm-q-000651"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-207",
+    "title": "幻觉排查案例207",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001063",
+      "lm-q-001904",
+      "lm-q-002799"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-208",
+    "title": "Prompt防御案例208",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000062",
+      "lm-q-002874",
+      "lm-q-000345"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-209",
+    "title": "成本优化案例209",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002745",
+      "lm-q-000824",
+      "lm-q-000881"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-210",
+    "title": "AI作品集案例210",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001788",
+      "lm-q-000662",
+      "lm-q-003028"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-211",
+    "title": "客服机器人案例211",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002311",
+      "lm-q-002568",
+      "lm-q-001380"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-212",
+    "title": "知识库问答案例212",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002604",
+      "lm-q-002702",
+      "lm-q-003345"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-213",
+    "title": "文档总结案例213",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001821",
+      "lm-q-001545",
+      "lm-q-001549"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-214",
+    "title": "合同审查案例214",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002645",
+      "lm-q-000712",
+      "lm-q-000609"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-215",
+    "title": "学习助手案例215",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001762",
+      "lm-q-003646",
+      "lm-q-001323"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-216",
+    "title": "代码解释案例216",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002945",
+      "lm-q-001347",
+      "lm-q-003410"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-217",
+    "title": "简历优化案例217",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000358",
+      "lm-q-000921",
+      "lm-q-001721"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-218",
+    "title": "AI搜索案例218",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000040",
+      "lm-q-001824",
+      "lm-q-000468"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-219",
+    "title": "RAG知识库案例219",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002252",
+      "lm-q-001700",
+      "lm-q-003188"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-220",
+    "title": "Embedding检索案例220",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002844",
+      "lm-q-001863",
+      "lm-q-002051"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-221",
+    "title": "向量召回案例221",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002878",
+      "lm-q-002593",
+      "lm-q-003691"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-222",
+    "title": "重排案例222",
+    "description": "通过重排掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003470",
+      "lm-q-002238",
+      "lm-q-003607"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-223",
+    "title": "JSON输出案例223",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003478",
+      "lm-q-000915",
+      "lm-q-003014"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-224",
+    "title": "工具调用案例224",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002651",
+      "lm-q-001956",
+      "lm-q-001600"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-225",
+    "title": "Agent任务案例225",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003403",
+      "lm-q-000114",
+      "lm-q-001538"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-226",
+    "title": "AI工作流案例226",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001007",
+      "lm-q-002847",
+      "lm-q-000511"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-227",
+    "title": "评测集案例227",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000442",
+      "lm-q-003541",
+      "lm-q-001975"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-228",
+    "title": "幻觉排查案例228",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003595",
+      "lm-q-003495",
+      "lm-q-001382"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-229",
+    "title": "Prompt防御案例229",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002789",
+      "lm-q-000801",
+      "lm-q-000778"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-230",
+    "title": "成本优化案例230",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000954",
+      "lm-q-002965",
+      "lm-q-000510"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-231",
+    "title": "AI作品集案例231",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000749",
+      "lm-q-000162",
+      "lm-q-002617"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-232",
+    "title": "客服机器人案例232",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002258",
+      "lm-q-001891",
+      "lm-q-000967"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-233",
+    "title": "知识库问答案例233",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002101",
+      "lm-q-001342",
+      "lm-q-000752"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-234",
+    "title": "文档总结案例234",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001484",
+      "lm-q-001369",
+      "lm-q-001837"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-235",
+    "title": "合同审查案例235",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002599",
+      "lm-q-002276",
+      "lm-q-002660"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-236",
+    "title": "学习助手案例236",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001935",
+      "lm-q-003338",
+      "lm-q-001998"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-237",
+    "title": "代码解释案例237",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002653",
+      "lm-q-002806",
+      "lm-q-002460"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-238",
+    "title": "简历优化案例238",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000702",
+      "lm-q-002258",
+      "lm-q-001815"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-239",
+    "title": "AI搜索案例239",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001219",
+      "lm-q-001093",
+      "lm-q-003137"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-240",
+    "title": "RAG知识库案例240",
+    "description": "通过RAG知识库掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003475",
+      "lm-q-002436",
+      "lm-q-000246"
+    ],
+    "tags": [
+      "RAG知识库"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-241",
+    "title": "Embedding检索案例241",
+    "description": "通过Embedding检索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003509",
+      "lm-q-001149",
+      "lm-q-002012"
+    ],
+    "tags": [
+      "Embedding检索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-242",
+    "title": "向量召回案例242",
+    "description": "通过向量召回掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002362",
+      "lm-q-000368",
+      "lm-q-002313"
+    ],
+    "tags": [
+      "向量召回"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-243",
+    "title": "重排案例243",
+    "description": "通过重排掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003527",
+      "lm-q-001955",
+      "lm-q-000039"
+    ],
+    "tags": [
+      "重排"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-244",
+    "title": "JSON输出案例244",
+    "description": "通过JSON输出掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002417",
+      "lm-q-000968",
+      "lm-q-001384"
+    ],
+    "tags": [
+      "JSON输出"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-245",
+    "title": "工具调用案例245",
+    "description": "通过工具调用掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003551",
+      "lm-q-003680",
+      "lm-q-001445"
+    ],
+    "tags": [
+      "工具调用"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-246",
+    "title": "Agent任务案例246",
+    "description": "通过Agent任务掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000820",
+      "lm-q-000262",
+      "lm-q-001433"
+    ],
+    "tags": [
+      "Agent任务"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-247",
+    "title": "AI工作流案例247",
+    "description": "通过AI工作流掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001877",
+      "lm-q-003147",
+      "lm-q-000700"
+    ],
+    "tags": [
+      "AI工作流"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-248",
+    "title": "评测集案例248",
+    "description": "通过评测集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001122",
+      "lm-q-000761",
+      "lm-q-001896"
+    ],
+    "tags": [
+      "评测集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-249",
+    "title": "幻觉排查案例249",
+    "description": "通过幻觉排查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000462",
+      "lm-q-001092",
+      "lm-q-000528"
+    ],
+    "tags": [
+      "幻觉排查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-250",
+    "title": "Prompt防御案例250",
+    "description": "通过Prompt防御掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000082",
+      "lm-q-002223",
+      "lm-q-001391"
+    ],
+    "tags": [
+      "Prompt防御"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-251",
+    "title": "成本优化案例251",
+    "description": "通过成本优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003000",
+      "lm-q-000454",
+      "lm-q-001736"
+    ],
+    "tags": [
+      "成本优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-252",
+    "title": "AI作品集案例252",
+    "description": "通过AI作品集掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000478",
+      "lm-q-000304",
+      "lm-q-003364"
+    ],
+    "tags": [
+      "AI作品集"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-253",
+    "title": "客服机器人案例253",
+    "description": "通过客服机器人掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002681",
+      "lm-q-002898",
+      "lm-q-000687"
+    ],
+    "tags": [
+      "客服机器人"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-254",
+    "title": "知识库问答案例254",
+    "description": "通过知识库问答掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-000863",
+      "lm-q-002046",
+      "lm-q-001223"
+    ],
+    "tags": [
+      "知识库问答"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-255",
+    "title": "文档总结案例255",
+    "description": "通过文档总结掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003036",
+      "lm-q-001647",
+      "lm-q-001599"
+    ],
+    "tags": [
+      "文档总结"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-256",
+    "title": "合同审查案例256",
+    "description": "通过合同审查掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001933",
+      "lm-q-001653",
+      "lm-q-003344"
+    ],
+    "tags": [
+      "合同审查"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-257",
+    "title": "学习助手案例257",
+    "description": "通过学习助手掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-003517",
+      "lm-q-003176",
+      "lm-q-000803"
+    ],
+    "tags": [
+      "学习助手"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-258",
+    "title": "代码解释案例258",
+    "description": "通过代码解释掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001873",
+      "lm-q-002991",
+      "lm-q-000231"
+    ],
+    "tags": [
+      "代码解释"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-259",
+    "title": "简历优化案例259",
+    "description": "通过简历优化掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-002650",
+      "lm-q-000190",
+      "lm-q-002632"
+    ],
+    "tags": [
+      "简历优化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "lm-case-260",
+    "title": "AI搜索案例260",
+    "description": "通过AI搜索掌握LLM",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "编码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "lm-q-001320",
+      "lm-q-003282",
+      "lm-q-002115"
+    ],
+    "tags": [
+      "AI搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

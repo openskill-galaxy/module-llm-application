@@ -1,0 +1,41 @@
+{
+  "id": "mod-llm-application",
+  "slug": "module-llm-application",
+  "title": "大模型应用开发",
+  "subtitle": "面向AI产品经理和全栈开发者",
+  "description": "面向AI产品经理前端后端和全栈开发者的LLM基础Prompt工程结构化输出RAGEmbedding向量数据库Agent工具调用评测安全成本与AI应用项目实战。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "大模型",
+    "LLM",
+    "Prompt工程",
+    "RAG",
+    "Embedding",
+    "Agent",
+    "AI应用",
+    "向量数据库"
+  ],
+  "estimatedHours": 190,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "💡",
+  "repoUrl": "https://github.com/openskill-galaxy/module-llm-application",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 138
+  }
+}

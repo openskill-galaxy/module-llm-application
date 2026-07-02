@@ -1,0 +1,562 @@
+[
+  {
+    "id": "lm-route-01",
+    "slug": "LLM路线1",
+    "title": "LLM路线1",
+    "description": "LLM路线1",
+    "summary": "LLM路线1",
+    "targetUser": "目标1",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-02",
+    "slug": "LLM路线2",
+    "title": "LLM路线2",
+    "description": "LLM路线2",
+    "summary": "LLM路线2",
+    "targetUser": "目标2",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-03",
+    "slug": "LLM路线3",
+    "title": "LLM路线3",
+    "description": "LLM路线3",
+    "summary": "LLM路线3",
+    "targetUser": "目标3",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-04",
+    "slug": "LLM路线4",
+    "title": "LLM路线4",
+    "description": "LLM路线4",
+    "summary": "LLM路线4",
+    "targetUser": "目标4",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-05",
+    "slug": "LLM路线5",
+    "title": "LLM路线5",
+    "description": "LLM路线5",
+    "summary": "LLM路线5",
+    "targetUser": "目标5",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-06",
+    "slug": "LLM路线6",
+    "title": "LLM路线6",
+    "description": "LLM路线6",
+    "summary": "LLM路线6",
+    "targetUser": "目标6",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-07",
+    "slug": "LLM路线7",
+    "title": "LLM路线7",
+    "description": "LLM路线7",
+    "summary": "LLM路线7",
+    "targetUser": "目标7",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-08",
+    "slug": "LLM路线8",
+    "title": "LLM路线8",
+    "description": "LLM路线8",
+    "summary": "LLM路线8",
+    "targetUser": "目标8",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-09",
+    "slug": "LLM路线9",
+    "title": "LLM路线9",
+    "description": "LLM路线9",
+    "summary": "LLM路线9",
+    "targetUser": "目标9",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-10",
+    "slug": "LLM路线10",
+    "title": "LLM路线10",
+    "description": "LLM路线10",
+    "summary": "LLM路线10",
+    "targetUser": "目标10",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-11",
+    "slug": "LLM路线11",
+    "title": "LLM路线11",
+    "description": "LLM路线11",
+    "summary": "LLM路线11",
+    "targetUser": "目标11",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-12",
+    "slug": "LLM路线12",
+    "title": "LLM路线12",
+    "description": "LLM路线12",
+    "summary": "LLM路线12",
+    "targetUser": "目标12",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-13",
+    "slug": "LLM路线13",
+    "title": "LLM路线13",
+    "description": "LLM路线13",
+    "summary": "LLM路线13",
+    "targetUser": "目标13",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-14",
+    "slug": "LLM路线14",
+    "title": "LLM路线14",
+    "description": "LLM路线14",
+    "summary": "LLM路线14",
+    "targetUser": "目标14",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-15",
+    "slug": "LLM路线15",
+    "title": "LLM路线15",
+    "description": "LLM路线15",
+    "summary": "LLM路线15",
+    "targetUser": "目标15",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-16",
+    "slug": "LLM路线16",
+    "title": "LLM路线16",
+    "description": "LLM路线16",
+    "summary": "LLM路线16",
+    "targetUser": "目标16",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-17",
+    "slug": "LLM路线17",
+    "title": "LLM路线17",
+    "description": "LLM路线17",
+    "summary": "LLM路线17",
+    "targetUser": "目标17",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-18",
+    "slug": "LLM路线18",
+    "title": "LLM路线18",
+    "description": "LLM路线18",
+    "summary": "LLM路线18",
+    "targetUser": "目标18",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-19",
+    "slug": "LLM路线19",
+    "title": "LLM路线19",
+    "description": "LLM路线19",
+    "summary": "LLM路线19",
+    "targetUser": "目标19",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-20",
+    "slug": "LLM路线20",
+    "title": "LLM路线20",
+    "description": "LLM路线20",
+    "summary": "LLM路线20",
+    "targetUser": "目标20",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-21",
+    "slug": "LLM路线21",
+    "title": "LLM路线21",
+    "description": "LLM路线21",
+    "summary": "LLM路线21",
+    "targetUser": "目标21",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-22",
+    "slug": "LLM路线22",
+    "title": "LLM路线22",
+    "description": "LLM路线22",
+    "summary": "LLM路线22",
+    "targetUser": "目标22",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-23",
+    "slug": "LLM路线23",
+    "title": "LLM路线23",
+    "description": "LLM路线23",
+    "summary": "LLM路线23",
+    "targetUser": "目标23",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-24",
+    "slug": "LLM路线24",
+    "title": "LLM路线24",
+    "description": "LLM路线24",
+    "summary": "LLM路线24",
+    "targetUser": "目标24",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-25",
+    "slug": "LLM路线25",
+    "title": "LLM路线25",
+    "description": "LLM路线25",
+    "summary": "LLM路线25",
+    "targetUser": "目标25",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-26",
+    "slug": "LLM路线26",
+    "title": "LLM路线26",
+    "description": "LLM路线26",
+    "summary": "LLM路线26",
+    "targetUser": "目标26",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-27",
+    "slug": "LLM路线27",
+    "title": "LLM路线27",
+    "description": "LLM路线27",
+    "summary": "LLM路线27",
+    "targetUser": "目标27",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-28",
+    "slug": "LLM路线28",
+    "title": "LLM路线28",
+    "description": "LLM路线28",
+    "summary": "LLM路线28",
+    "targetUser": "目标28",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-29",
+    "slug": "LLM路线29",
+    "title": "LLM路线29",
+    "description": "LLM路线29",
+    "summary": "LLM路线29",
+    "targetUser": "目标29",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-30",
+    "slug": "LLM路线30",
+    "title": "LLM路线30",
+    "description": "LLM路线30",
+    "summary": "LLM路线30",
+    "targetUser": "目标30",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-31",
+    "slug": "LLM路线31",
+    "title": "LLM路线31",
+    "description": "LLM路线31",
+    "summary": "LLM路线31",
+    "targetUser": "目标31",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-32",
+    "slug": "LLM路线32",
+    "title": "LLM路线32",
+    "description": "LLM路线32",
+    "summary": "LLM路线32",
+    "targetUser": "目标32",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-33",
+    "slug": "LLM路线33",
+    "title": "LLM路线33",
+    "description": "LLM路线33",
+    "summary": "LLM路线33",
+    "targetUser": "目标33",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-34",
+    "slug": "LLM路线34",
+    "title": "LLM路线34",
+    "description": "LLM路线34",
+    "summary": "LLM路线34",
+    "targetUser": "目标34",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "lm-route-35",
+    "slug": "LLM路线35",
+    "title": "LLM路线35",
+    "description": "LLM路线35",
+    "summary": "LLM路线35",
+    "targetUser": "目标35",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  }
+]
