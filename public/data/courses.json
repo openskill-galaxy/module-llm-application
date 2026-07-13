@@ -34,7 +34,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-001",
+      "lm-lesson-002",
+      "lm-lesson-003",
+      "lm-lesson-004",
+      "lm-lesson-005",
+      "lm-lesson-006",
+      "lm-lesson-007",
+      "lm-lesson-008",
+      "lm-lesson-009",
+      "lm-lesson-010",
+      "lm-lesson-011",
+      "lm-lesson-012",
+      "lm-lesson-013"
+    ],
+    "summary": "LLM概述、能力边界、应用范式、学习路线。"
   },
   {
     "id": "lm-course-02",
@@ -71,7 +87,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-014",
+      "lm-lesson-015",
+      "lm-lesson-016",
+      "lm-lesson-017",
+      "lm-lesson-018",
+      "lm-lesson-019",
+      "lm-lesson-020",
+      "lm-lesson-021",
+      "lm-lesson-022",
+      "lm-lesson-023",
+      "lm-lesson-024",
+      "lm-lesson-025",
+      "lm-lesson-026"
+    ],
+    "summary": "Token、上下文窗口、能力边界、模型选择。"
   },
   {
     "id": "lm-course-03",
@@ -108,7 +140,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-027",
+      "lm-lesson-028",
+      "lm-lesson-029",
+      "lm-lesson-030",
+      "lm-lesson-031",
+      "lm-lesson-032",
+      "lm-lesson-033",
+      "lm-lesson-034",
+      "lm-lesson-035",
+      "lm-lesson-036",
+      "lm-lesson-037",
+      "lm-lesson-038",
+      "lm-lesson-039"
+    ],
+    "summary": "系统提示词、用户提示词、Few-shot、COT。"
   },
   {
     "id": "lm-course-04",
@@ -145,7 +193,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-040",
+      "lm-lesson-041",
+      "lm-lesson-042",
+      "lm-lesson-043",
+      "lm-lesson-044",
+      "lm-lesson-045",
+      "lm-lesson-046",
+      "lm-lesson-047",
+      "lm-lesson-048",
+      "lm-lesson-049",
+      "lm-lesson-050",
+      "lm-lesson-051",
+      "lm-lesson-052"
+    ],
+    "summary": "提示词设计原则、JSON输出、思维链。"
   },
   {
     "id": "lm-course-05",
@@ -182,7 +246,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-053",
+      "lm-lesson-054",
+      "lm-lesson-055",
+      "lm-lesson-056",
+      "lm-lesson-057",
+      "lm-lesson-058",
+      "lm-lesson-059",
+      "lm-lesson-060",
+      "lm-lesson-061",
+      "lm-lesson-062",
+      "lm-lesson-063",
+      "lm-lesson-064",
+      "lm-lesson-065"
+    ],
+    "summary": "API调用模式、流式输出、错误处理、安全。"
   },
   {
     "id": "lm-course-06",
@@ -219,7 +299,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-066",
+      "lm-lesson-067",
+      "lm-lesson-068",
+      "lm-lesson-069",
+      "lm-lesson-070",
+      "lm-lesson-071",
+      "lm-lesson-072",
+      "lm-lesson-073",
+      "lm-lesson-074",
+      "lm-lesson-075",
+      "lm-lesson-076",
+      "lm-lesson-077",
+      "lm-lesson-078"
+    ],
+    "summary": "Embedding原理、相似度计算、语义搜索。"
   },
   {
     "id": "lm-course-07",
@@ -256,7 +352,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-079",
+      "lm-lesson-080",
+      "lm-lesson-081",
+      "lm-lesson-082",
+      "lm-lesson-083",
+      "lm-lesson-084",
+      "lm-lesson-085",
+      "lm-lesson-086",
+      "lm-lesson-087",
+      "lm-lesson-088",
+      "lm-lesson-089",
+      "lm-lesson-090",
+      "lm-lesson-091"
+    ],
+    "summary": "RAG架构、文档切分、召回、重排、Grounding。"
   },
   {
     "id": "lm-course-08",
@@ -293,7 +405,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-092",
+      "lm-lesson-093",
+      "lm-lesson-094",
+      "lm-lesson-095",
+      "lm-lesson-096",
+      "lm-lesson-097",
+      "lm-lesson-098",
+      "lm-lesson-099",
+      "lm-lesson-100",
+      "lm-lesson-101",
+      "lm-lesson-102",
+      "lm-lesson-103",
+      "lm-lesson-104"
+    ],
+    "summary": "向量数据库选型、知识库构建、混合搜索。"
   },
   {
     "id": "lm-course-09",
@@ -330,7 +458,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-105",
+      "lm-lesson-106",
+      "lm-lesson-107",
+      "lm-lesson-108",
+      "lm-lesson-109",
+      "lm-lesson-110",
+      "lm-lesson-111",
+      "lm-lesson-112",
+      "lm-lesson-113",
+      "lm-lesson-114",
+      "lm-lesson-115",
+      "lm-lesson-116",
+      "lm-lesson-117"
+    ],
+    "summary": "函数定义、工具选择、结构化输出。"
   },
   {
     "id": "lm-course-10",
@@ -367,7 +511,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-118",
+      "lm-lesson-119",
+      "lm-lesson-120",
+      "lm-lesson-121",
+      "lm-lesson-122",
+      "lm-lesson-123",
+      "lm-lesson-124",
+      "lm-lesson-125",
+      "lm-lesson-126",
+      "lm-lesson-127",
+      "lm-lesson-128",
+      "lm-lesson-129",
+      "lm-lesson-130"
+    ],
+    "summary": "Agent架构、Planner、Memory、工具编排。"
   },
   {
     "id": "lm-course-11",
@@ -404,7 +564,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-131",
+      "lm-lesson-132",
+      "lm-lesson-133",
+      "lm-lesson-134",
+      "lm-lesson-135",
+      "lm-lesson-136",
+      "lm-lesson-137",
+      "lm-lesson-138",
+      "lm-lesson-139",
+      "lm-lesson-140",
+      "lm-lesson-141",
+      "lm-lesson-142",
+      "lm-lesson-143"
+    ],
+    "summary": "工作流设计、链式调用、条件分支、自动化。"
   },
   {
     "id": "lm-course-12",
@@ -441,7 +617,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-144",
+      "lm-lesson-145",
+      "lm-lesson-146",
+      "lm-lesson-147",
+      "lm-lesson-148",
+      "lm-lesson-149",
+      "lm-lesson-150",
+      "lm-lesson-151",
+      "lm-lesson-152",
+      "lm-lesson-153",
+      "lm-lesson-154",
+      "lm-lesson-155",
+      "lm-lesson-156"
+    ],
+    "summary": "评测集、准确率、相关性、延迟、监控、日志。"
   },
   {
     "id": "lm-course-13",
@@ -478,7 +670,23 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-157",
+      "lm-lesson-158",
+      "lm-lesson-159",
+      "lm-lesson-160",
+      "lm-lesson-161",
+      "lm-lesson-162",
+      "lm-lesson-163",
+      "lm-lesson-164",
+      "lm-lesson-165",
+      "lm-lesson-166",
+      "lm-lesson-167",
+      "lm-lesson-168",
+      "lm-lesson-169"
+    ],
+    "summary": "Prompt注入防御、数据隐私、成本估算、合规。"
   },
   {
     "id": "lm-course-14",
@@ -515,6 +723,22 @@
       "会构建RAG应用",
       "能开发AI产品"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "lm-lesson-170",
+      "lm-lesson-171",
+      "lm-lesson-172",
+      "lm-lesson-173",
+      "lm-lesson-174",
+      "lm-lesson-175",
+      "lm-lesson-176",
+      "lm-lesson-177",
+      "lm-lesson-178",
+      "lm-lesson-179",
+      "lm-lesson-180",
+      "lm-lesson-181",
+      "lm-lesson-182"
+    ],
+    "summary": "客服机器人、知识库、AI搜索、AI写作。"
   }
 ]

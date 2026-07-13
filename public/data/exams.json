@@ -36,7 +36,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门基础",
+    "description": "LLM入门基础",
+    "slug": "llm入门基础"
   },
   {
     "id": "lm-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念基础",
+    "description": "LLM基础概念基础",
+    "slug": "llm基础概念基础"
   },
   {
     "id": "lm-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "Prompt工程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prompt工程基础",
+    "description": "Prompt工程基础",
+    "slug": "prompt工程基础"
   },
   {
     "id": "lm-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "高质量Prompt"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "高质量Prompt基础",
+    "description": "高质量Prompt基础",
+    "slug": "高质量prompt基础"
   },
   {
     "id": "lm-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "API调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "API调用基础",
+    "description": "API调用基础",
+    "slug": "api调用基础"
   },
   {
     "id": "lm-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "Embedding"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Embedding基础",
+    "description": "Embedding基础",
+    "slug": "embedding基础"
   },
   {
     "id": "lm-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "RAG"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RAG基础",
+    "description": "RAG基础",
+    "slug": "rag基础"
   },
   {
     "id": "lm-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "向量数据库"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "向量数据库基础",
+    "description": "向量数据库基础",
+    "slug": "向量数据库基础"
   },
   {
     "id": "lm-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "工具调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "工具调用基础",
+    "description": "工具调用基础",
+    "slug": "工具调用基础"
   },
   {
     "id": "lm-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "Agent基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Agent基础基础",
+    "description": "Agent基础基础",
+    "slug": "agent基础基础"
   },
   {
     "id": "lm-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "AI工作流"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI工作流基础",
+    "description": "AI工作流基础",
+    "slug": "ai工作流基础"
   },
   {
     "id": "lm-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "LLM评测"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM评测基础",
+    "description": "LLM评测基础",
+    "slug": "llm评测基础"
   },
   {
     "id": "lm-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "安全成本"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "安全成本基础",
+    "description": "安全成本基础",
+    "slug": "安全成本基础"
   },
   {
     "id": "lm-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "AI项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI项目实战基础",
+    "description": "AI项目实战基础",
+    "slug": "ai项目实战基础"
   },
   {
     "id": "lm-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门基础",
+    "description": "LLM入门基础",
+    "slug": "llm入门基础"
   },
   {
     "id": "lm-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念基础",
+    "description": "LLM基础概念基础",
+    "slug": "llm基础概念基础"
   },
   {
     "id": "lm-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "Prompt工程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prompt工程基础",
+    "description": "Prompt工程基础",
+    "slug": "prompt工程基础"
   },
   {
     "id": "lm-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "高质量Prompt"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "高质量Prompt基础",
+    "description": "高质量Prompt基础",
+    "slug": "高质量prompt基础"
   },
   {
     "id": "lm-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "API调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "API调用基础",
+    "description": "API调用基础",
+    "slug": "api调用基础"
   },
   {
     "id": "lm-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "Embedding"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Embedding基础",
+    "description": "Embedding基础",
+    "slug": "embedding基础"
   },
   {
     "id": "lm-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "RAG"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RAG基础",
+    "description": "RAG基础",
+    "slug": "rag基础"
   },
   {
     "id": "lm-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "向量数据库"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "向量数据库基础",
+    "description": "向量数据库基础",
+    "slug": "向量数据库基础"
   },
   {
     "id": "lm-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "工具调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "工具调用基础",
+    "description": "工具调用基础",
+    "slug": "工具调用基础"
   },
   {
     "id": "lm-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "Agent基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Agent基础基础",
+    "description": "Agent基础基础",
+    "slug": "agent基础基础"
   },
   {
     "id": "lm-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "AI工作流"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI工作流基础",
+    "description": "AI工作流基础",
+    "slug": "ai工作流基础"
   },
   {
     "id": "lm-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "LLM评测"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM评测基础",
+    "description": "LLM评测基础",
+    "slug": "llm评测基础"
   },
   {
     "id": "lm-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "安全成本"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "安全成本基础",
+    "description": "安全成本基础",
+    "slug": "安全成本基础"
   },
   {
     "id": "lm-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "AI项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI项目实战基础",
+    "description": "AI项目实战基础",
+    "slug": "ai项目实战基础"
   },
   {
     "id": "lm-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门基础",
+    "description": "LLM入门基础",
+    "slug": "llm入门基础"
   },
   {
     "id": "lm-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念基础",
+    "description": "LLM基础概念基础",
+    "slug": "llm基础概念基础"
   },
   {
     "id": "lm-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "Prompt工程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prompt工程基础",
+    "description": "Prompt工程基础",
+    "slug": "prompt工程基础"
   },
   {
     "id": "lm-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "高质量Prompt"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "高质量Prompt基础",
+    "description": "高质量Prompt基础",
+    "slug": "高质量prompt基础"
   },
   {
     "id": "lm-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "API调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "API调用基础",
+    "description": "API调用基础",
+    "slug": "api调用基础"
   },
   {
     "id": "lm-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "Embedding"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Embedding基础",
+    "description": "Embedding基础",
+    "slug": "embedding基础"
   },
   {
     "id": "lm-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "RAG"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RAG基础",
+    "description": "RAG基础",
+    "slug": "rag基础"
   },
   {
     "id": "lm-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "向量数据库"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "向量数据库进阶",
+    "description": "向量数据库进阶",
+    "slug": "向量数据库进阶"
   },
   {
     "id": "lm-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "工具调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "工具调用进阶",
+    "description": "工具调用进阶",
+    "slug": "工具调用进阶"
   },
   {
     "id": "lm-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "Agent基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Agent基础进阶",
+    "description": "Agent基础进阶",
+    "slug": "agent基础进阶"
   },
   {
     "id": "lm-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "AI工作流"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI工作流进阶",
+    "description": "AI工作流进阶",
+    "slug": "ai工作流进阶"
   },
   {
     "id": "lm-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "LLM评测"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM评测进阶",
+    "description": "LLM评测进阶",
+    "slug": "llm评测进阶"
   },
   {
     "id": "lm-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "安全成本"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "安全成本进阶",
+    "description": "安全成本进阶",
+    "slug": "安全成本进阶"
   },
   {
     "id": "lm-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "AI项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI项目实战进阶",
+    "description": "AI项目实战进阶",
+    "slug": "ai项目实战进阶"
   },
   {
     "id": "lm-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门进阶",
+    "description": "LLM入门进阶",
+    "slug": "llm入门进阶"
   },
   {
     "id": "lm-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念进阶",
+    "description": "LLM基础概念进阶",
+    "slug": "llm基础概念进阶"
   },
   {
     "id": "lm-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "Prompt工程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prompt工程进阶",
+    "description": "Prompt工程进阶",
+    "slug": "prompt工程进阶"
   },
   {
     "id": "lm-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "高质量Prompt"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "高质量Prompt进阶",
+    "description": "高质量Prompt进阶",
+    "slug": "高质量prompt进阶"
   },
   {
     "id": "lm-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "API调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "API调用进阶",
+    "description": "API调用进阶",
+    "slug": "api调用进阶"
   },
   {
     "id": "lm-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "Embedding"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Embedding进阶",
+    "description": "Embedding进阶",
+    "slug": "embedding进阶"
   },
   {
     "id": "lm-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "RAG"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RAG进阶",
+    "description": "RAG进阶",
+    "slug": "rag进阶"
   },
   {
     "id": "lm-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "向量数据库"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "向量数据库进阶",
+    "description": "向量数据库进阶",
+    "slug": "向量数据库进阶"
   },
   {
     "id": "lm-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "工具调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "工具调用进阶",
+    "description": "工具调用进阶",
+    "slug": "工具调用进阶"
   },
   {
     "id": "lm-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "Agent基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Agent基础进阶",
+    "description": "Agent基础进阶",
+    "slug": "agent基础进阶"
   },
   {
     "id": "lm-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "AI工作流"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI工作流进阶",
+    "description": "AI工作流进阶",
+    "slug": "ai工作流进阶"
   },
   {
     "id": "lm-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "LLM评测"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM评测进阶",
+    "description": "LLM评测进阶",
+    "slug": "llm评测进阶"
   },
   {
     "id": "lm-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "安全成本"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "安全成本进阶",
+    "description": "安全成本进阶",
+    "slug": "安全成本进阶"
   },
   {
     "id": "lm-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "AI项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI项目实战进阶",
+    "description": "AI项目实战进阶",
+    "slug": "ai项目实战进阶"
   },
   {
     "id": "lm-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门进阶",
+    "description": "LLM入门进阶",
+    "slug": "llm入门进阶"
   },
   {
     "id": "lm-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念进阶",
+    "description": "LLM基础概念进阶",
+    "slug": "llm基础概念进阶"
   },
   {
     "id": "lm-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "Prompt工程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prompt工程进阶",
+    "description": "Prompt工程进阶",
+    "slug": "prompt工程进阶"
   },
   {
     "id": "lm-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "高质量Prompt"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "高质量Prompt进阶",
+    "description": "高质量Prompt进阶",
+    "slug": "高质量prompt进阶"
   },
   {
     "id": "lm-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "API调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "API调用进阶",
+    "description": "API调用进阶",
+    "slug": "api调用进阶"
   },
   {
     "id": "lm-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "Embedding"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Embedding进阶",
+    "description": "Embedding进阶",
+    "slug": "embedding进阶"
   },
   {
     "id": "lm-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "RAG"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RAG进阶",
+    "description": "RAG进阶",
+    "slug": "rag进阶"
   },
   {
     "id": "lm-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "向量数据库"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "向量数据库进阶",
+    "description": "向量数据库进阶",
+    "slug": "向量数据库进阶"
   },
   {
     "id": "lm-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "工具调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "工具调用进阶",
+    "description": "工具调用进阶",
+    "slug": "工具调用进阶"
   },
   {
     "id": "lm-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "Agent基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Agent基础综合",
+    "description": "Agent基础综合",
+    "slug": "agent基础综合"
   },
   {
     "id": "lm-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "AI工作流"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI工作流综合",
+    "description": "AI工作流综合",
+    "slug": "ai工作流综合"
   },
   {
     "id": "lm-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "LLM评测"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM评测综合",
+    "description": "LLM评测综合",
+    "slug": "llm评测综合"
   },
   {
     "id": "lm-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "安全成本"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "安全成本综合",
+    "description": "安全成本综合",
+    "slug": "安全成本综合"
   },
   {
     "id": "lm-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "AI项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI项目实战综合",
+    "description": "AI项目实战综合",
+    "slug": "ai项目实战综合"
   },
   {
     "id": "lm-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门综合",
+    "description": "LLM入门综合",
+    "slug": "llm入门综合"
   },
   {
     "id": "lm-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念综合",
+    "description": "LLM基础概念综合",
+    "slug": "llm基础概念综合"
   },
   {
     "id": "lm-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "Prompt工程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prompt工程综合",
+    "description": "Prompt工程综合",
+    "slug": "prompt工程综合"
   },
   {
     "id": "lm-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "高质量Prompt"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "高质量Prompt综合",
+    "description": "高质量Prompt综合",
+    "slug": "高质量prompt综合"
   },
   {
     "id": "lm-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "API调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "API调用综合",
+    "description": "API调用综合",
+    "slug": "api调用综合"
   },
   {
     "id": "lm-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "Embedding"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Embedding综合",
+    "description": "Embedding综合",
+    "slug": "embedding综合"
   },
   {
     "id": "lm-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "RAG"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RAG综合",
+    "description": "RAG综合",
+    "slug": "rag综合"
   },
   {
     "id": "lm-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "向量数据库"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "向量数据库综合",
+    "description": "向量数据库综合",
+    "slug": "向量数据库综合"
   },
   {
     "id": "lm-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "工具调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "工具调用综合",
+    "description": "工具调用综合",
+    "slug": "工具调用综合"
   },
   {
     "id": "lm-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "Agent基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Agent基础综合",
+    "description": "Agent基础综合",
+    "slug": "agent基础综合"
   },
   {
     "id": "lm-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "AI工作流"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI工作流综合",
+    "description": "AI工作流综合",
+    "slug": "ai工作流综合"
   },
   {
     "id": "lm-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "LLM评测"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM评测综合",
+    "description": "LLM评测综合",
+    "slug": "llm评测综合"
   },
   {
     "id": "lm-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "安全成本"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "安全成本综合",
+    "description": "安全成本综合",
+    "slug": "安全成本综合"
   },
   {
     "id": "lm-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "AI项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI项目实战综合",
+    "description": "AI项目实战综合",
+    "slug": "ai项目实战综合"
   },
   {
     "id": "lm-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门综合",
+    "description": "LLM入门综合",
+    "slug": "llm入门综合"
   },
   {
     "id": "lm-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念综合",
+    "description": "LLM基础概念综合",
+    "slug": "llm基础概念综合"
   },
   {
     "id": "lm-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "Prompt工程"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prompt工程综合",
+    "description": "Prompt工程综合",
+    "slug": "prompt工程综合"
   },
   {
     "id": "lm-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "高质量Prompt"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "高质量Prompt综合",
+    "description": "高质量Prompt综合",
+    "slug": "高质量prompt综合"
   },
   {
     "id": "lm-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "API调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "API调用综合",
+    "description": "API调用综合",
+    "slug": "api调用综合"
   },
   {
     "id": "lm-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "Embedding"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Embedding综合",
+    "description": "Embedding综合",
+    "slug": "embedding综合"
   },
   {
     "id": "lm-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "RAG"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RAG综合",
+    "description": "RAG综合",
+    "slug": "rag综合"
   },
   {
     "id": "lm-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "向量数据库"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "向量数据库综合",
+    "description": "向量数据库综合",
+    "slug": "向量数据库综合"
   },
   {
     "id": "lm-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "工具调用"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "工具调用综合",
+    "description": "工具调用综合",
+    "slug": "工具调用综合"
   },
   {
     "id": "lm-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "Agent基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Agent基础综合",
+    "description": "Agent基础综合",
+    "slug": "agent基础综合"
   },
   {
     "id": "lm-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "AI工作流"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI工作流综合",
+    "description": "AI工作流综合",
+    "slug": "ai工作流综合"
   },
   {
     "id": "lm-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "LLM评测"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM评测综合",
+    "description": "LLM评测综合",
+    "slug": "llm评测综合"
   },
   {
     "id": "lm-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "安全成本"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "安全成本综合",
+    "description": "安全成本综合",
+    "slug": "安全成本综合"
   },
   {
     "id": "lm-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "AI项目实战"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "AI项目实战综合",
+    "description": "AI项目实战综合",
+    "slug": "ai项目实战综合"
   },
   {
     "id": "lm-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "LLM入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM入门综合",
+    "description": "LLM入门综合",
+    "slug": "llm入门综合"
   },
   {
     "id": "lm-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "LLM基础概念"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LLM基础概念综合",
+    "description": "LLM基础概念综合",
+    "slug": "llm基础概念综合"
   }
 ]
